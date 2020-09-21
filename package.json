@@ -10,6 +10,13 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/0xk175un3/susuwatari.git"
+	},
+	"bugs": {
+		"url": "https://github.com/0xk175un3/susuwatari/issues"
+	},
     "contributes": {
         "themes": [
             {

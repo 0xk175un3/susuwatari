@@ -4,7 +4,7 @@
 A light monochrome theme with a minimal amount of highlighting for [Visual Studio Code](http://code.visualstudio.com).
 
 ### What *Susuwatari* means?
-**煤渡り** in Japanese language mean *wandering soot*.
+**煤渡り** in Japanese it means *wandering soot*.
 When you typing text you made your letters and symbols *wandering* around.
 
 ### Screnshots
