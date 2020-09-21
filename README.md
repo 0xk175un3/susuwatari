@@ -1,0 +1,1 @@
+![]('assets/susuwatari%20monochrome%20ui')

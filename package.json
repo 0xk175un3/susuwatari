@@ -1,0 +1,22 @@
+{
+    "name": "susuwatari",
+    "displayName": "Susuwatari Theme",
+    "description": "monochrome theme",
+    "publisher": "0xk175un3",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Susuwatari Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Susuwatari-color-theme.json"
+            }
+        ]
+    }
+}
