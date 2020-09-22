@@ -7,7 +7,7 @@ A light monochrome theme with a minimal amount of highlighting for [Visual Studi
 **煤渡り** in Japanese it means *wandering soot*.
 When you typing text you made your letters and symbols *wandering* around.
 
-### Screnshots
+### Screenshots
 Default:
 
 ![](https://github.com/0xk175un3/susuwatari/blob/master/assets/vscode_default.png?raw=true)
